@@ -1,4 +1,4 @@
 # Login Details
 
-Username: admin
+Username: admin</br>
 Password: pointofsale
